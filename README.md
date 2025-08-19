@@ -9,9 +9,8 @@ video-to-image
 ├── src
 │   ├── main.js                # Entry point of the application
 │   ├── assets
-│   │   └── sample-video.mp4   # Sample video file for processing
-│   └── utils
-│       └── colorExtractor.js   # Utility functions for color extraction
+│        └── sample-video.mp4   # Sample video file for processing
+│   
 ├── package.json                # npm configuration file
 └── README.md                   # Project documentation
 ```
