@@ -8,6 +8,7 @@
     "start": "node src/main.js"
   },
   "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
     "ffmpeg-static": "^5.2.0",
     "ffprobe-static": "^3.1.0",
     "fluent-ffmpeg": "^2.1.0",
